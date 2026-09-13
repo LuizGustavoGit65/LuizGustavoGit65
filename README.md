@@ -7,8 +7,4 @@ Estudante de Engenharia de Computação no 4 semestre. Atualmente estudando para
 
 
 
-<div>
-<a href="https://github.com/LuizGustavoGit65">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?LuizGustavoGit65&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?LuizGustavoGit65&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuizGustavoGit65&hide_progress=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=LuizGustavoGit65&hide_progress=true&langs_count=4&theme=dark_github)
